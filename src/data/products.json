@@ -1,0 +1,44 @@
+[
+    {
+      "id": "p1",
+      "title": "Auriculares Inalámbricos",
+      "description": "Auriculares bluetooth con cancelación de ruido.",
+      "code": "AUR123",
+      "price": 3499.99,
+      "status": true,
+      "stock": 50,
+      "category": "audio",
+      "thumbnails": [
+        "images/auriculares1.jpg",
+        "images/auriculares2.jpg"
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Teclado Mecánico RGB",
+      "description": "Teclado con retroiluminación LED, switches rojos.",
+      "code": "TEC456",
+      "price": 5999.00,
+      "status": true,
+      "stock": 35,
+      "category": "periféricos",
+      "thumbnails": [
+        "images/teclado1.jpg"
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Monitor 24\" Full HD",
+      "description": "Monitor LED 24 pulgadas 1080p con HDMI y VGA.",
+      "code": "MON789",
+      "price": 22999.99,
+      "status": true,
+      "stock": 15,
+      "category": "pantallas",
+      "thumbnails": [
+        "images/monitor1.jpg",
+        "images/monitor2.jpg"
+      ]
+    }
+  ]
+  
